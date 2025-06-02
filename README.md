@@ -1,4 +1,3 @@
-%%writefile README.md
 # Stock Price Prediction
 This project predicts stock price trends using historical data and news sentiment analysis, combining LSTM, ARIMA, and NLP for stocks like Alphabet (GOOG).
 
