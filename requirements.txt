@@ -1,0 +1,8 @@
+%%writefile requirements.txt
+numpy==1.26.4
+newsapi-python
+pandas
+tensorflow
+scikit-learn
+nltk
+pmdarima
