@@ -13,4 +13,4 @@ This project predicts stock price trends using historical data and news sentimen
 - Libraries: NumPy, Pandas, NewsAPI-Python, TensorFlow, Scikit-learn, NLTK
 
 ## Model Weights
-Download the pre-trained model (`tf_model.h5`)
+Download the pre-trained model (`my_tf_model`,403MB) from [Google Drive](https://drive.google.com/drive/folders/1HCMWeYrzsnc7aupu_j85XTRHxHiGpWQs?usp=sharing)
